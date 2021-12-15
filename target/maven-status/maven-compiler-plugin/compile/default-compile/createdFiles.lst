@@ -1,0 +1,9 @@
+abc\util\Resources.class
+abc\data\MemberListProducer.class
+abc\data\MemberRepository.class
+abc\controller\MemberController.class
+abc\model\Member.class
+abc\service\MemberRegistration.class
+abc\rest\JaxRsActivator.class
+abc\rest\MemberResourceRESTService.class
+abc\model\Member_.class
